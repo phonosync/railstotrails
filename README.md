@@ -8,6 +8,7 @@ Jessica R built a capsone project on it [in Tableau](https://public.tableau.com/
 
 ## Dataset
 Download from [data.world](https://data.world/makeovermonday/2021w1) into the folder data
+
 Original [data source on RTC-website](https://www.railstotrails.org/COVID19/#trailcount)
 
 ## Python Environment Setup and Management
