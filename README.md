@@ -1,8 +1,7 @@
 # railstotrails
 [Rails to Trails Conservancy](https://www.railstotrails.org/) (RTC) based in Wahsington D.C. has conducted weekly analyses of national trail usage based on data gathered from 31 trail counters distributed across the country.
 
-Original visualisation challenge on [MakeoverMonday](https://www.makeovermonday.co.uk/). See the [discussion](https://www.makeovermonday.co.uk/week-1-2021/) of the various submissions in 2021.
-Corresponding [article on bbc](https://www.bbc.com/future/bespoke/made-on-earth/the-great-bicycle-boom-of-2020.html)
+See the original [article on bbc](https://www.bbc.com/future/bespoke/made-on-earth/the-great-bicycle-boom-of-2020.html) and the corresponding visualisation challenge on [MakeoverMonday](https://www.makeovermonday.co.uk/) with the [discussion](https://www.makeovermonday.co.uk/week-1-2021/) of the various submissions in 2021.
 
 Jessica R built a capsone project on it [in Tableau](https://public.tableau.com/app/profile/jessica.pf/viz/CapstoneProject_16276628699320/Story1?publish=yes) and described it in an [article on medium](https://medium.com/@jessica.rpf/data-visualization-capstone-project-by-jessica-r-3c0155ce9f55)
 
