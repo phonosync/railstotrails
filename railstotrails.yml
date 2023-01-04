@@ -1,0 +1,10 @@
+name: railstotrails
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - jupyterlab=3.3.2
+  - jupyter_bokeh=3.0.5
+  - matplotlib=3.6.2
+  - pandas=1.4.2
+  - python=3.10
